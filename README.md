@@ -1,4 +1,4 @@
-# LaporanFPKlaster
+# Laporan FP Klaster
 
 ## English
 This repository is used to accommodate the results of the work and also reports from the Final Project given in the 2021 Cluster Computing course at the Sepuluh Nopember Institute of Technology. In this final project, I was assigned to do a remote connection to the Raspberry PI that has been provided in the Lab using a Proxy and also VNC. This connection is useful so that I can run the UNAS value calculation program with the database that has been provided in parallel on the Raspberry PI using Python. To view the report and the creation process, you can view the finalproject.pdf file.
